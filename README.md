@@ -12,9 +12,6 @@ A modern, animated Java Swing application to help users manage their wardrobe, g
 - **Persistent Storage:** User-specific wardrobe data is saved locally.
 - **Logout & Account Management:** Easily switch users or exit the application.
 
-## Screenshots
-
-> _Add screenshots here after running the app!_
 
 ## Getting Started
 
